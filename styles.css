@@ -1,0 +1,121 @@
+marquee{
+    padding: 50px;
+    background-color: antiquewhite;
+}
+.col-sm-3{
+    padding-top: 40px;
+    
+    background-color: rgb(233, 234, 235);
+    padding-right: 0;
+    
+}
+
+.col-sm-5{
+    background-color: rgb(236, 223, 236);
+    
+}
+#slide{
+    background-color: beige;
+    margin: 10px;
+    padding: 15px;
+}
+.container{
+    background-color: blanchedalmond;
+    margin-top: 20px;
+    padding: 10px;
+}
+.col-sm-4{
+    background-color: rgb(233, 234, 235);
+}
+.nav{
+    justify-content: center;
+    
+}
+.New{
+    background-color: rgb(168, 165, 165);
+    margin-top: 20px;
+}
+#Circulars{
+    background-color: beige;
+    margin: 10px;
+    padding: 15px;
+}
+#tabcontent{
+    background-color: blanchedalmond;
+}
+#butt{
+    background-color: rgb(197, 194, 194);
+    margin-left: 20px;
+}
+#butt:hover
+{
+    background-color: rgb(69, 69, 69);
+}
+#buttdown{
+    margin-top: 0;
+}
+#line{
+    margin: 0;
+}
+#ach{
+    margin: 0;
+}
+#achievements{
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+    padding: 15px;
+    padding-bottom: 5px;
+}
+#achieve{
+    background-color: rgb(191, 190, 190);
+
+}
+#bar{
+    background-color: grey;
+}
+#left{
+    text-align: left;
+    
+}
+#personal{
+    background-color: beige;
+    margin: 10px;
+    
+}
+button:hover{
+    background-color: grey;
+}
+footer{
+    background-color: rgb(243, 241, 241);
+}
+.list-group{
+    padding: 15px;
+}
+
+#content {
+    height: 200px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    margin: 20px auto;
+    margin: 10px;
+    padding: 15px;
+}
+
+.pagination {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.pagination button {
+    margin: 5px;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+}
+.pagination button:hover {
+    background-color: #0d6dd5;
+    
+}
